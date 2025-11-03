@@ -1,9 +1,7 @@
 Je suis Hyosua, étudiant en LP MIAW, je travaille actuellement sur une appli web ayant pour but de faciliter l'apprentissage de la langue française de manière ludique.  
   
 Je recherche également un stage de fin d'année (Mi-Juin à Septembre 2026) dans le développement web.
-
----
-
+  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
