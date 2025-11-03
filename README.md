@@ -1,4 +1,5 @@
 Je suis Hyosua, étudiant en LP MIAW, je travaille actuellement sur une appli web ayant pour but de faciliter l'apprentissage de la langue française de manière ludique.  
+  
 Je recherche également un stage de fin d'année (Mi-Juin à Septembre 2026) dans le développement web.
 
 ---
@@ -15,6 +16,6 @@ Je recherche également un stage de fin d'année (Mi-Juin à Septembre 2026) dan
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyosua&layout=compact&hide=html,css&theme=radical)
 
----
