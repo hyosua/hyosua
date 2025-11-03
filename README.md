@@ -1,5 +1,6 @@
 # Bonjour 👋
-Je suis Hyosua, étudiant en LP MIAW, je travaille actuellement sur une appli web ayant pour but de faciliter l'apprentissage de la langue française de manière ludique.  
+Je suis Hyosua, étudiant en LP MIAW.  
+Je travaille actuellement sur une appli web ayant pour but de faciliter l'apprentissage de la langue française de manière ludique.  
   
 Je recherche également un stage de fin d'année (Mi-Juin à Septembre 2026) dans le développement web.
   
