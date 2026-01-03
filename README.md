@@ -15,5 +15,3 @@ Je recherche également un stage de fin d'année (Mi-Juin à Septembre 2026) dan
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyosua&layout=compact&hide=html,css&theme=radical)
-
