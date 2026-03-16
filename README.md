@@ -31,11 +31,6 @@
   <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
   <a href="https://www.root-me.org/"><img src="https://img.shields.io/badge/Root--Me-000000?style=flat-square&logoColor=white" /></a>
 </p>
-
-```zsh
-❯ git log --oneline --graph
-```
-
 <br>
 
 ```zsh
