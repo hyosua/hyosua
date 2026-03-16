@@ -36,13 +36,6 @@
 ❯ git log --oneline --graph
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hyosua&show_icons=true&hide_border=true&bg_color=282a36&title_color=50fa7b&icon_color=ff79c6&text_color=f8f8f2&ring_color=50fa7b" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyosua&hide_border=true&background=282A36&ring=50fa7b&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=f8f8f2&currStreakNum=f8f8f2&dates=6272a4&sideNums=f8f8f2" width="48%" />
-
-</div>
-
 <br>
 
 ```zsh
@@ -55,5 +48,3 @@
 </p>
 
 ---
-
-<sub>de facteur à pentester — le chemin le plus long est parfois le bon.</sub>
