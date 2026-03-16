@@ -1,0 +1,59 @@
+<div align="center">
+
+<picture>
+  <img alt="terminal" src="./terminal-header.svg" width="800">
+</picture>
+
+</div>
+
+<br>
+
+```zsh
+❯ ls -la ~/projects/
+```
+
+| | Projet | Description | Stack |
+|:--|:-------|:-----------|:------|
+| 🔒 | [**hellmet**](https://github.com/hyosua/hellmet) | Analyse statique & détection de vulnérabilités OWASP Top 10 | `ts` `next` `regex` |
+| ⚡ | [**cadavrexquis.fr**](https://cadavrexquis.fr) | Temps réel, agent IA, cache basse latence | `next` `socket.io` `redis` |
+| 📸 | [**peakture.fr**](https://peakture.fr) | Pipeline d'upload, auth JWT, API REST | `node` `mongo` `react` |
+| 📋 | [**sygma**](https://github.com/hyosua/sygma) | Numérisation d'émargement scolaire, full-stack | `laravel` `pg` `react` `docker` |
+| 🛒 | **miaw-techwear** | E-commerce, thème WordPress custom | `wordpress` `php` |
+
+<br>
+
+```zsh
+❯ cat ~/.hacking-labs
+```
+
+<p>
+  <a href="https://app.hackthebox.com/"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" /></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://www.root-me.org/"><img src="https://img.shields.io/badge/Root--Me-000000?style=flat-square&logoColor=white" /></a>
+</p>
+
+```zsh
+❯ git log --oneline --graph
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hyosua&show_icons=true&hide_border=true&bg_color=282a36&title_color=50fa7b&icon_color=ff79c6&text_color=f8f8f2&ring_color=50fa7b" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyosua&hide_border=true&background=282A36&ring=50fa7b&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=f8f8f2&currStreakNum=f8f8f2&dates=6272a4&sideNums=f8f8f2" width="48%" />
+
+</div>
+
+<br>
+
+```zsh
+❯ echo $LINKS
+```
+
+<p>
+  <a href="https://hyosua.fr"><img src="https://img.shields.io/badge/hyosua.fr-282a36?style=flat-square&logo=safari&logoColor=f8f8f2" /></a>
+  <a href="mailto:colleterhyosua@gmail.com"><img src="https://img.shields.io/badge/mail-282a36?style=flat-square&logo=gmail&logoColor=ff79c6" /></a>
+</p>
+
+---
+
+<sub>de facteur à pentester — le chemin le plus long est parfois le bon.</sub>
