@@ -12,13 +12,13 @@
 ❯ ls -la ~/projects/
 ```
 
-| | Projet | Description | Stack |
-|:--|:-------|:-----------|:------|
-| 🔒 | [**hellmet**](https://github.com/hyosua/hellmet) | Analyse statique & détection de vulnérabilités OWASP Top 10 | `ts` `next` `regex` |
-| ⚡ | [**cadavrexquis.fr**](https://cadavrexquis.fr) | Temps réel, agent IA, cache basse latence | `next` `socket.io` `redis` |
-| 📸 | [**peakture.fr**](https://peakture.fr) | Pipeline d'upload, auth JWT, API REST | `node` `mongo` `react` |
-| 📋 | [**sygma**](https://github.com/hyosua/sygma) | Numérisation d'émargement scolaire, full-stack | `laravel` `pg` `react` `docker` |
-| 🛒 | **miaw-techwear** | E-commerce, thème WordPress custom | `wordpress` `php` |
+<div align="center">
+
+<picture>
+  <img alt="terminal" src="./terminal-projects.svg" width="800">
+</picture>
+
+</div>
 
 <br>
 
