@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="406" viewBox="0 0 800 406">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      .term-text { font-family: 'JetBrains Mono', monospace; font-size: 14px; }
+      .value { fill: #f8f8f2; }
+      .key { fill: #ff79c6; }
+      .comment { fill: #6272a4; }
+      .arrow { fill: #50fa7b; }
+      .cmd { fill: #f8f8f2; }
+      .string { fill: #f1fa8c; }
+    </style>
+  </defs>
+
+  <rect width="800" height="406" rx="10" ry="10" fill="#282a36"/>
+  <rect width="800" height="36" rx="10" ry="10" fill="#21222c"/>
+  <rect y="20" width="800" height="16" fill="#21222c"/>
+
+  <circle cx="20" cy="18" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="18" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="18" r="6" fill="#27c93f"/>
+
+  <text x="400" y="22" text-anchor="middle" class="term-text" fill="#6272a4" font-size="12">hyosua@parrot  ~</text>
+
+  <text y="68" class="term-text">
+    <tspan x="20" class="arrow">❯</tspan>
+    <tspan class="cmd"> neofetch</tspan>
+  </text>
+
+  <text y="90" class="term-text">
+    <tspan x="20" class="key">name</tspan>
+    <tspan class="comment">       :</tspan>
+    <tspan class="value"> Hyosua Colleter</tspan>
+  </text>
+  <text y="112" class="term-text">
+    <tspan x="20" class="key">location</tspan>
+    <tspan class="comment">   :</tspan>
+    <tspan class="value"> Brunoy (91), France</tspan>
+  </text>
+  <text y="134" class="term-text">
+    <tspan x="20" class="key">studying</tspan>
+    <tspan class="comment">   :</tspan>
+    <tspan class="value"> LP MIAW</tspan>
+  </text>
+  <text y="156" class="term-text">
+    <tspan x="20" class="key">focus</tspan>
+    <tspan class="comment">      :</tspan>
+    <tspan class="string"> Application Security (AppSec)</tspan>
+  </text>
+  <text y="178" class="term-text">
+    <tspan x="20" class="key">background</tspan>
+    <tspan class="comment"> :</tspan>
+    <tspan class="value"> 9 ans facteur-service-expert @ La Poste</tspan>
+  </text>
+  <text y="200" class="term-text">
+    <tspan x="20" class="key">formation</tspan>
+    <tspan class="comment">  :</tspan>
+    <tspan class="value"> DUT Informatique (2015)</tspan>
+  </text>
+  <text y="222" class="term-text">
+    <tspan x="20" class="key">other</tspan>
+    <tspan class="comment">      :</tspan>
+    <tspan class="value"> Pompier Volontaire (2021-2024)</tspan>
+  </text>
+
+  <text y="254" class="term-text">
+    <tspan x="20" class="comment">─────────────────────────────────────</tspan>
+  </text>
+
+  <text y="276" class="term-text">
+    <tspan x="20" class="key">front</tspan>
+    <tspan class="comment">      :</tspan>
+    <tspan class="value"> ts · next · react · html-css · tailwind </tspan>
+  </text>
+  <text y="298" class="term-text">
+    <tspan x="20" class="key">back</tspan>
+    <tspan class="comment">       :</tspan>
+    <tspan class="value"> node · laravel · python</tspan>
+  </text>
+  <text y="320" class="term-text">
+    <tspan x="20" class="key">databases</tspan>
+    <tspan class="comment">  :</tspan>
+    <tspan class="value"> postgres · mongodb · redis</tspan>
+  </text>
+  <text y="342" class="term-text">
+    <tspan x="20" class="key">security</tspan>
+    <tspan class="comment">   :</tspan>
+    <tspan class="value"> burpsuite · ffuf · nmap</tspan>
+  </text>
+  <text y="364" class="term-text">
+    <tspan x="20" class="key">infra</tspan>
+    <tspan class="comment">      :</tspan>
+    <tspan class="value"> docker · linux · shell</tspan>
+  </text>
+
+  <rect x="20" y="394" width="8" height="2" fill="#50fa7b">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
