@@ -1,4 +1,3 @@
-<div align="center">
 
 <picture>
   <img alt="terminal" src="./terminal-header.svg" width="800">
@@ -34,5 +33,5 @@
   <a href="https://hyosua.fr"><img src="https://img.shields.io/badge/hyosua.fr-282a36?style=flat-square&logo=safari&logoColor=f8f8f2" /></a>
   <a href="mailto:colleterhyosua@gmail.com"><img src="https://img.shields.io/badge/mail-282a36?style=flat-square&logo=gmail&logoColor=ff79c6" /></a>
 </p>
-</div>
+
 ---
